@@ -13,10 +13,12 @@ Isnieje limit 30 sekund na odpowiedź.
 
 
 ![Alt Text](http://g.recordit.co/d3SiSlm1Pa.gif)
+
 #Licznik czasu
 
 
 ![Alt Text](http://g.recordit.co/9QFKeIkJzu.gif)
+
 #Licznik punktów
 
 
