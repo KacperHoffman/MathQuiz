@@ -5,7 +5,7 @@
 
 Gracz ma za zadanie wybrać parwidłową odpowiedź z 4 dostępnych.
 Za każdą poprawną odpowiedź dostaje 10 punktów a za niepoprawną odjemowane mu jest 30 puntków.
-Isnieje limit 30 sekund na odpowiedź.
+Wyzmaniem jest zdobycie jak największej ilości punktów w ciągu 30 sekund.
 
 ## Działanie i elementy
 
