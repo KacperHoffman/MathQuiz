@@ -27,4 +27,4 @@ Wyzmaniem jest zdobycie jak największej ilości punktów w ciągu 30 sekund.
 
 ## Komentarz
 Ze względu na problem z wersjami Android Studio pojawiły się pewne błedy w postaci braku możliwości zmiany kolorów 
-oraz błąd w wyświetlnianiu przez emulator.
+oraz błąd w wyświetlaniu przez emulator.
