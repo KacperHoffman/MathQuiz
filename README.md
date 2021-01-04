@@ -10,13 +10,13 @@ Isnieje limit 30 sekund na odpowiedź.
 #Działanie i elementy
 
 #Gra
-![Alt Text](https://recordit.co/E5CsNpqthX)
+![Alt Text](http://g.recordit.co/sl7xyKwj9O.gif)
 
 #Licznik czasu
-![Alt Text](https://recordit.co/9QFKeIkJzu)
+![Alt Text](http://g.recordit.co/9QFKeIkJzu.gif)
 
 #Licznik punktów
-![Alt Text](https://recordit.co/yN5TC0pn5P)
+![Alt Text](http://g.recordit.co/yN5TC0pn5P.gif)
 
 
 Komentarz
